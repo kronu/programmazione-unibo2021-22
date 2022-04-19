@@ -1,0 +1,16 @@
+﻿  board.c
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(13,25): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(14,29): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(19,21): warning C4244: 'funzione': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(20,27): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(85,29): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(87,33): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(106,33): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(108,37): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(152,25): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(154,29): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(178,25): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(180,29): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(190,27): warning C4018: '>=': errata corrispondenza tra signed e unsigned
+C:\Users\aleta\source\repos\elaborato7 minesweeper\elaborato7 minesweeper\board.c(192,31): warning C4018: '>=': errata corrispondenza tra signed e unsigned
+  elaborato7 minesweeper.vcxproj -> C:\Users\aleta\source\repos\elaborato7 minesweeper\Debug\elaborato7 minesweeper.exe
